@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: di
+  shell:
+    interactive:
+      enabled: true
